@@ -70,19 +70,3 @@ for address in MovieAddress:
     GrossWorld.append(ExtractNumber(GrossWorldNum))
 
 print(Budget)
-
-# for address in MovieAddress:
-#     print(getAllcontents(address))
-
-
-# print(type(MovieAddress[]))
-# for lines in :
-#     if re.search(r'<td class="titleColumn">', lines):
-#         print(lines)
-
-# print(extractInfo(r'w', 'wwwwwwww5.565 88787').groups())
-
-
-
-# for line in getAllcontents("https://www.imdb.com"):
-#     print(extractInfo('[1-9]', line))
